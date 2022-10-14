@@ -2,6 +2,8 @@ To keep the assignment simple and fast, I have used Python and FastAPI. Since Fa
 
 The application is built entirely in one file - 'main.py', and the tests are located in 'test_main.py'
 
+As instructed, the otps are 6-digits and have an expiration time of 3 minutes.
+
 0) Setup:
     0.1) Navigate to current directory
     0.2) Run command "pip install -r requirements.txt" to install dependencies
