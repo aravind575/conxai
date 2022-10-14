@@ -2,11 +2,11 @@ To keep the assignment simple and fast, I have used Python and FastAPI. Since Fa
 
 
 0) Setup:
-    0.1) Navigate to directory "Conxai Assignment"
+    0.1) Navigate to current directory
     0.2) Run command "pip install -r requirements.txt" to install dependencies
 
 
-1) To run the server, run command "python3 main.py" inside "Conxai Assignment" directory.
+1) To run the server, run command "python3 main.py" inside current directory.
     1.1) Visit link "127.0.0.1:8009/docs/" to view and use server APIs.
 
-2) To run tests, run command "pytest" inside "Conxai Assignment" directory.
+2) To run tests, run command "pytest" inside current directory.
