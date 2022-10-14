@@ -1,5 +1,6 @@
 To keep the assignment simple and fast, I have used Python and FastAPI. Since FastAPI comes with Swagger UI, it is easy to use and test the APIs without using 3rd party software like Postman. Follow given instructions to launch and/or test the application.
 
+The application is built entirely in one file - 'main.py', and the tests are located in 'test_main.py'
 
 0) Setup:
     0.1) Navigate to current directory
